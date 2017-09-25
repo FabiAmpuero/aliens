@@ -29,7 +29,7 @@
 
             mysqli_close($dbc);
 
-            header("refresh:1; url=report.html");*/
+            header("refresh:1; url=index.html");*/
         ?> -->
 
         <?php
